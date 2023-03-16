@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7d8feba2.js",
+    "main.css": "/static/css/main.7b263917.css",
+    "main.js": "/static/js/main.48d0dad3.js",
     "static/js/787.3b722d45.chunk.js": "/static/js/787.3b722d45.chunk.js",
+    "static/media/worldBook.jpg": "/static/media/worldBook.18755c40df2bca33ebf1.jpg",
+    "static/media/fitfactory.jpg": "/static/media/fitfactory.fe2bd75e048bdef3b455.jpg",
+    "static/media/lavishLook.jpg": "/static/media/lavishLook.08344ca3ddc795dff7b6.jpg",
+    "static/media/monday.jpg": "/static/media/monday.b7666428a969be6f2600.jpg",
+    "static/media/resume.pdf": "/static/media/resume.266a0d75c5c6d7c3ed1c.pdf",
+    "static/media/mypicc.png": "/static/media/mypicc.d51f3c1e18f417c83648.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7d8feba2.js.map": "/static/js/main.7d8feba2.js.map",
+    "main.7b263917.css.map": "/static/css/main.7b263917.css.map",
+    "main.48d0dad3.js.map": "/static/js/main.48d0dad3.js.map",
     "787.3b722d45.chunk.js.map": "/static/js/787.3b722d45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7d8feba2.js"
+    "static/css/main.7b263917.css",
+    "static/js/main.48d0dad3.js"
   ]
 }
